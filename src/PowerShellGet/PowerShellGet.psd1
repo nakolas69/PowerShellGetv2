@@ -283,5 +283,5 @@ https://github.com/PowerShell/PowerShellGet/blob/master/CHANGELOG.md
         }
     }
 
-    HelpInfoURI       = 'http://go.microsoft.com/fwlink/?linkid=855963'
+    HelpInfoURI       = 'http://go.microsoft.com/fwlink/?linkid=2113539'
 }
